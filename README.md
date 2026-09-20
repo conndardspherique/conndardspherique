@@ -30,21 +30,21 @@ Backend d'une solution de comptage événementiel temps réel.
 
 **Node.js - PostgreSQL - MQTT - WebSocket - Linux - VPS**
 
-### 💬 DOTCAHT
+###  DOTCAHT
 Application de chat temps réel développée autour de Node.js et MQTT.
 
 **Node.js - PostgreSQL - MQTT**
 
-### 🌐 UNTIL THE ROCK
+###  UNTIL THE ROCK
 Application web développée avec un backend Node.js et PostgreSQL.
 
 **Node.js - PostgreSQL - JavaScript**
 
-### 🎨 Profane Tattoo
+###  Profane Tattoo
 Site professionnel développé dans le cadre d'un stage.
 
 **Symfony - PostgreSQL - Twig · EasyAdmin - Mailjet**
 
-## 📫 Contact
+##  Contact
 
 [LinkedIn](TON_LIEN_LINKEDIN) · [Portfolio](TON_LIEN_PORTFOLIO)
