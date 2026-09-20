@@ -23,7 +23,7 @@ HTML - CSS - JavaScript - Symfony - Twig
 ### Tools
 Git - GitHub - npm - Composer
 
-## 🚀 Projects
+## Projects
 
 ### Projet comptage événementiel
 Backend d'une solution de comptage événementiel temps réel.
