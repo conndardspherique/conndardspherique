@@ -1,16 +1,50 @@
-## Hi there 👋
+# Jeremy Jardet
 
-<!--
-**conndardspherique/conndardspherique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Backend Developer
 
-Here are some ideas to get you started:
+BTS CIEL — Cybersécurité, Informatique et Réseaux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je développe principalement des applications backend avec Node.js et PostgreSQL, avec un intérêt particulier pour les API, les communications temps réel et les systèmes distribués.
+
+##  Technologies
+
+### Backend
+Node.js - TypeScript - Express - REST API - WebSocket - MQTT
+
+### Database
+PostgreSQL - SQL
+
+### Infrastructure
+Linux - Docker - Nginx · OVH
+
+### Frontend
+HTML - CSS - JavaScript - Symfony - Twig
+
+### Tools
+Git - GitHub - npm - Composer
+
+## 🚀 Projects
+
+### Projet comptage événementiel
+Backend d'une solution de comptage événementiel temps réel.
+
+**Node.js - PostgreSQL - MQTT - WebSocket - Linux - VPS**
+
+### 💬 DOTCAHT
+Application de chat temps réel développée autour de Node.js et MQTT.
+
+**Node.js - PostgreSQL - MQTT**
+
+### 🌐 UNTIL THE ROCK
+Application web développée avec un backend Node.js et PostgreSQL.
+
+**Node.js - PostgreSQL - JavaScript**
+
+### 🎨 Profane Tattoo
+Site professionnel développé dans le cadre d'un stage.
+
+**Symfony - PostgreSQL - Twig · EasyAdmin - Mailjet**
+
+## 📫 Contact
+
+[LinkedIn](TON_LIEN_LINKEDIN) · [Portfolio](TON_LIEN_PORTFOLIO)
